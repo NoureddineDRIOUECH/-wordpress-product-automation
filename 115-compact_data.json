@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Appareil photo couleur instantan\u00e9 Canon Zoemini S2, Rose dor\u00e9 (4519C006AB)",
+        "regular_price": null,
+        "sale_price": "940,00",
+        "description": "L'appareil photo instantan\u00e9 Canon Zoemini S2, ultra-plat et \u00e9l\u00e9gant, est parfait pour les amateurs de selfies gr\u00e2ce \u00e0 son miroir et son anneau lumineux. Il offre la possibilit\u00e9 de personnaliser vos photos avec des filtres, des emojis et du texte via l'application Canon Mini Print. Avec une charge compl\u00e8te, imprimez jusqu'\u00e0 25 photos autocollantes et stockez vos clich\u00e9s favoris sur une carte Micro SD. Pratique et amusant, le Zoemini S2 est l'accessoire portable id\u00e9al pour immortaliser et partager vos moments pr\u00e9f\u00e9r\u00e9s.",
+        "images": [
+            "//home/noureddinedriouech/Downloads/irisDataScraping/productsImages/appareil-photo-couleur-instantane-canon-zoemini-s2-rose-dore-4519c006aa.jpg",
+            "//home/noureddinedriouech/Downloads/irisDataScraping/productsImages/appareil-photo-couleur-instantane-canon-zoemini-s2-rose-dore-4519c006aa.jpg"
+        ]
+    },
+    {
+        "name": "Appareil photo couleur instantan\u00e9 Canon Zoemini S2, Blanc perle (4519C007AB)",
+        "regular_price": "1620,00",
+        "sale_price": "940,00",
+        "description": null,
+        "images": [
+            "//home/noureddinedriouech/Downloads/irisDataScraping/productsImages/appareil-photo-couleur-instantane-canon-zoemini-s2-blanc-perle-4519c007aa.jpg",
+            "//home/noureddinedriouech/Downloads/irisDataScraping/productsImages/appareil-photo-couleur-instantane-canon-zoemini-s2-blanc-perle-4519c007aa.jpg"
+        ]
+    },
+    {
+        "name": "Appareil photo couleur instantan\u00e9 Canon Zoemini S2, Turquoise (4519C008AB)",
+        "regular_price": "1620,00",
+        "sale_price": "940,00",
+        "description": "L'appareil photo couleur instantan\u00e9 Canon Zoemini S2 en turquoise r\u00e9volutionne la photographie instantan\u00e9e. Avec miroir, anneau lumineux et obturateur \u00e0 distance, c'est l'outil id\u00e9al pour les amateurs de selfies. Personnalisez vos photos avec filtres, emojis et texte gr\u00e2ce \u00e0 l'appli Canon Mini Print. Imprimez jusqu'\u00e0 25 photos par charge. Sauvegardez-les sur une carte Micro SD (vendue s\u00e9par\u00e9ment) pour plus tard. Compact et \u00e9l\u00e9gant, il personnalise vos objets. La technologie Zink\u2122 offre des clich\u00e9s sans bavure, r\u00e9sistants \u00e0 l'eau. Une exp\u00e9rience photo in\u00e9dite !",
+        "images": [
+            "//home/noureddinedriouech/Downloads/irisDataScraping/productsImages/appareil-photo-couleur-instantane-canon-zoemini-s2-turquoise-4519c008aa.jpg",
+            "//home/noureddinedriouech/Downloads/irisDataScraping/productsImages/appareil-photo-couleur-instantane-canon-zoemini-s2-turquoise-4519c008aa.jpg"
+        ]
+    },
+    {
+        "name": "Appareil photo compact Canon\u00a0Powershot\u00a0V10\u00a0pour le vlogging (5947C006)",
+        "regular_price": "5731,00",
+        "sale_price": "5180,00",
+        "description": "Capturez l'instant avec la cam\u00e9ra tout-en-un compacte Canon Powershot V10, sp\u00e9cialement con\u00e7ue pour les vloggers. Dot\u00e9e d'un enregistrement 4K et Full HD, elle se glisse facilement dans votre poche. Profitez du Wi-Fi, du Bluetooth et de la diffusion en direct sur Facebook et YouTube. Avec un \u00e9cran inclinable, des microphones st\u00e9r\u00e9o performants, et une qualit\u00e9 d'image exceptionnelle m\u00eame en basse lumi\u00e8re, cette cam\u00e9ra vous permettra de cr\u00e9er du contenu de qualit\u00e9 avec facilit\u00e9. Transformez chaque moment en une exp\u00e9rience inoubliable.",
+        "images": [
+            "//home/noureddinedriouech/Downloads/irisDataScraping/productsImages/appareil-photo-tout-en-un-compact-canon-powershot-v10-pour-le-vlogging-5947c006.jpg",
+            "//home/noureddinedriouech/Downloads/irisDataScraping/productsImages/appareil-photo-tout-en-un-compact-canon-powershot-v10-pour-le-vlogging-5947c006.jpg"
+        ]
+    }
+]
