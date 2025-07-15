@@ -1,0 +1,7 @@
+{
+    "username": "admin",
+    "password": "your_password",
+    "url": "https://your_wordpress_site.com/wp-admin",
+    "headless": false,
+    "images_path": "/home/noureddinedriouech/Downloads/irisDataScraping/productsImages"
+}
