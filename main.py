@@ -1,12 +1,11 @@
 import json
 from createProduct import create_product
 from connection import connection
-from selenium.webdriver.support.wait import WebDriverWait
 from fillingForm import get_add_page
-with open('115-compact_data.json') as f:
+with open('151-onduleur-off-line_data.json') as f:
     products_data = json.load(f)
 
-driver = connection('admin', 'tv4GvG4sSfR84bJ@', 'https://test.wa7id.com/wp-admin')
+driver = connection('admin', 'yout ubfo,' 'Your Innfo')
 driver.maximize_window()
 get_add_page(driver)
 
